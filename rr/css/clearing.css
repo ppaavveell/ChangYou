@@ -1,0 +1,32 @@
+.pict
+{
+	border: 2px solid #CBC192;
+    border-radius: 10px;
+    float: left;
+    height: 173px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 168px;
+}
+
+
+
+.min
+{
+	cursor: pointer;
+	font-size: 20px;
+	padding: 5px;
+}
+
+.calc_res_cont
+{
+	font-size: 26px;
+	margin: 0 0 30px;
+	text-align: center;
+	font-family: Segoe Print;
+	position: fixed;
+	right: 7%;
+	bottom: 5%;
+
+}
